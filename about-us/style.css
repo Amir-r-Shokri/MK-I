@@ -1,0 +1,44 @@
+.about-jumbotron {
+    background-color: #E0F7F7;
+    padding: 80px 20px;
+    border-radius: 12px;
+    margin-top: 6vh;
+    box-shadow: 0 6px 12px rgba(0, 146, 146, 0.1);
+  }
+  
+  .about-jumbotron h1 {
+    color: #009292;
+    font-weight: 700;
+    font-size: 44px;
+    margin-bottom: 20px;
+  }
+  
+  .about-jumbotron p {
+    color: #5F9EA0;
+    font-size: 20px;
+    margin-bottom: 30px;
+  }
+  
+  .about-icons i {
+    font-size: 36px;
+    color: #009292;
+    margin: 0 12px;
+    transition: color 0.3s ease, transform 0.3s ease;
+  }
+  
+  .about-icons i:hover {
+    color: #004141;
+    transform: scale(1.2);
+  }
+  
+
+
+.about-jumbotron p {
+    color: #5F9EA0;
+    font-size: 20px;
+    line-height: 1.8;
+    max-width: 900px;
+    text-align: justify;
+    margin: 0 auto 30px auto;
+  }
+  
